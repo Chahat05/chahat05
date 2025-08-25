@@ -1,6 +1,6 @@
 # Hi, I'm Chahat Ajmera! 👋
 
-I'm a passionate **Software Engineer** with expertise in cloud, backend systems, automation, and data engineering. I love solving challenging problems, optimizing systems, and collaborating to deliver high-impact business solutions.
+I'm a results-driven **Software Engineer** skilled in designing scalable backend systems, automating cloud operations, and building robust APIs. My passion is delivering resilient solutions leveraging AWS, Spring Boot, Docker, and modern data infrastructure.
 
 ---
 
@@ -58,11 +58,27 @@ I'm a passionate **Software Engineer** with expertise in cloud, backend systems,
 
 ## 💼 Experience
 
-**Software Engineer, CitiusTech Inc (US)** | Aug 2023–Present  
-**Software Engineer Intern, Presbyterian Healthcare Services (US)** | Jun–Aug 2022  
-**Software Engineer, CitiusTech Healthcare Technology Pvt Ltd (India)** | Jan–Dec 2020  
+**Software Engineer, CitiusTech Inc (US)** (Aug 2023–Present)  
+- Developed cloud-native backend pipelines on AWS; automated large-scale data operations, improving throughput by 40% and reliability by 30%.  
+- Built RESTful Spring Boot APIs to process millions of inputs and integrated CI/CD for streamlined deployment and monitoring.  
 
-[See full resume for detailed project bullets 📝]
+**Software Engineer Intern, Presbyterian Healthcare Services (US)** (Jun–Aug 2022)  
+- Built and launched data processing APIs and analytics dashboards using Python, SQL, and Tableau; shortened reporting cycles by 40%.  
+- Automated data workflows to ensure high reliability for production systems.  
+
+**Software Engineer, CitiusTech Healthcare Technology Pvt Ltd (India)** (Jan–Dec 2020)  
+- Designed distributed backend services with Spring Boot, Docker, and AWS for scalable transaction processing.  
+- Engineered test automation frameworks with Postman and JUnit, improving pipeline quality.
+
+
+---
+
+## 🌱 Currently Exploring
+
+- Cloud-native backend development (AWS, Spring Boot, Docker)
+- Scalable REST API design and automation
+- Distributed system architecture & backend optimization
+- CI/CD pipelines and infrastructure as code
 
 ---
 
@@ -70,15 +86,8 @@ I'm a passionate **Software Engineer** with expertise in cloud, backend systems,
 
 - **M.S. Computer Science, University of Florida** (GPA: 3.8/4.0)
 - **BCA, Christ University** (GPA: 3.7/4.0)
-- **Snowflake SnowPro Core Certified** (Aug 2024)
+- **[Snowflake SnowPro Core Certified](https://achieve.snowflake.com/b1c5825b-0fe1-4626-b969-4e456a68d61f#acc.gJqVEZHG)** (Aug 2024)
 
----
-
-## 🌱 Currently Exploring
-
-- Software Engineering
-- Backend System Design & Distributed Systems
-- Process Automation
 
 ---
 
@@ -86,7 +95,7 @@ I'm a passionate **Software Engineer** with expertise in cloud, backend systems,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/chahat-ajmera)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Chahat05)
-📧 ajmerachahat05@gmail.com  
-📍 United States
+- 📧 cajmera05@gmail.com  
+- 📍 United States
 
-⭐ Check out my repositories and feel free to reach out for collaboration or opportunities!
+⭐ Explore my repositories below and reach out to collaborate!
